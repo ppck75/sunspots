@@ -1,6 +1,6 @@
 # 🌞 Sunspots (태양 흑점 분석)
 
-태양 흑점 데이터를 수집하고 분석하는 Python 프로젝트입니다.
+태양 흑점 데이터를 수집 및 분석한 프로젝트입니다. 
 
 ## 📋 개요
 
@@ -85,40 +85,12 @@ visualizer.plot_timeseries(sunspot_data)
 visualizer.plot_periodicity(sunspot_data)
 ```
 
-## 🤝 기여
-
-이 프로젝트에 기여하고 싶으신 분들을 환영합니다!
-
-1. 이 저장소를 포크(Fork)하세요
-2. 기능 브랜치를 만드세요 (`git checkout -b feature/AmazingFeature`)
-3. 변경사항을 커밋하세요 (`git commit -m 'Add some AmazingFeature'`)
-4. 브랜치에 푸시하세요 (`git push origin feature/AmazingFeature`)
-5. Pull Request를 열어주세요
-
-## 📖 문서
-
-자세한 사용법과 API 문서는 [Wiki](https://github.com/ppck75/sunspots/wiki)를 참고해주세요.
-
-## 🐛 이슈 및 피드백
-
-문제가 발생하거나 개선 제안이 있으신 경우:
-- [이슈 트래커](https://github.com/ppck75/sunspots/issues)에서 이슈를 생성해주세요
-- 또는 [토론](https://github.com/ppck75/sunspots/discussions)에서 의견을 나누어주세요
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참고하세요.
-
 ## 🔗 참고 자료
 
 - [NOAA 태양 흑점 데이터](https://www.solarserver.com)
 - [태양 활동 주기](https://solarscience.msfc.nasa.gov)
 - [Python 과학 계산 라이브러리](https://scipy.org)
 
-## 📧 문의
-
-질문이나 제안사항이 있으시면 이슈를 등록하거나 discussions에서 연락주세요.
 
 ---
 
-**마지막 업데이트**: 2026년 5월 5일
